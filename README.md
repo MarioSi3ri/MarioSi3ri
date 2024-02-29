@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi 💻 My name is Mario 👋
+
+🖥 “I am a follower of the technological world, specializing in programming with Java and its frameworks, and adding knowledge of Data Analytics and IT.” 🌎
 
 <!--
 **MarioSi3ri/MarioSi3ri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
