@@ -13,7 +13,7 @@
 
 <h3 align="left">Stats:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mariosi3ri&" alt="mariosi3ri" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariosi3ri&show_icons=true&locale=en&layout=compact" alt="mariosi3ri" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariosi3ri&show_icons=true&locale=en&layout=compact" alt="mariosi3ri" media="(prefers-color-scheme: dark)"/></p>
 
 <picture>
   <source
