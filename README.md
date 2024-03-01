@@ -17,9 +17,9 @@
 
 <picture>
   <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=mariosi3ri&" alt="mariosi3ri&show_icons=true&theme=dark"
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=mariosi3ri& alt="mariosi3ri"&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariosi3ri&" alt="mariosi3ri&show_icons=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariosi3ri& alt="mariosi3ri"&show_icons=true" />
 </picture>
 
 
