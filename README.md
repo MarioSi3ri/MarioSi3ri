@@ -2,8 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Mario! 💻</h1>
 <h3 align="center">🖥 “I am a follower of the technological world, specializing in programming with Java and its frameworks, and adding knowledge of Data Analytics and IT.” 🌎</h3>
-<image src="/Downloads/Banner-LinkedIn.png" alt="Descripción de la imagen">
-https://github.com/MarioSi3ri/MarioSi3ri/assets/129209417/b097b98e-0c21-4cbe-b8d2-69d622850d14
+<image src="https://github.com/MarioSi3ri/MarioSi3ri/assets/129209417/b097b98e-0c21-4cbe-b8d2-69d622850d14" alt="Descripción de la imagen">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
