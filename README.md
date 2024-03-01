@@ -1,4 +1,4 @@
-<h5 align="center">I am a student of Computer Systems Engineering and I continue to train to improve my skills and master computer technologies…</h5> ☕
+<h5 align="center">I am a student of Computer Systems Engineering and I continue to train to improve my skills and master computer technologies… ☕</h5>
 
 <h1 align="center">Hi 👋, I'm Mario! 💻</h1>
 <h3 align="center">🖥 “I am a follower of the technological world, specializing in programming with Java and its frameworks, and adding knowledge of Data Analytics and IT.” 🌎</h3>
