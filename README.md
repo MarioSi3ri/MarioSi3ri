@@ -15,6 +15,14 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mariosi3ri&" alt="mariosi3ri" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariosi3ri&show_icons=true&locale=en&layout=compact" alt="mariosi3ri" /></p>
 
+<picture>
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=mariosi3ri&" alt="mariosi3ri&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariosi3ri&" alt="mariosi3ri&show_icons=true" />
+</picture>
+
+
 <!--
 **MarioSi3ri/MarioSi3ri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
