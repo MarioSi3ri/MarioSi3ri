@@ -4,7 +4,7 @@
 <h3 align="center">🖥 “I am a follower of the technological world, specializing in programming with Java and its frameworks, and adding knowledge of Cybersecurity, Data Analytics, Networks and IT.” 🌎</h3>
 <image src="https://github.com/MarioSi3ri/MarioSi3ri/assets/129209417/b097b98e-0c21-4cbe-b8d2-69d622850d14" alt="Portada de presentación">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariosi3ri" alt="mariosi3ri" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariosi3ri" alt="mariosi3ri" /></a> </p>
 
 - ⚡ I’m currently working on **a website for a Star Wars themed game. In the absence of mobile development and ends.**
 
