@@ -4,11 +4,9 @@
 <h3 align="center">🖥 “I am a follower of the technological world, specializing in programming with Java and its frameworks, and adding knowledge of Cybersecurity, Data Analytics, Networks and IT.” 🌎</h3>
 <image src="https://github.com/MarioSi3ri/MarioSi3ri/assets/129209417/b097b98e-0c21-4cbe-b8d2-69d622850d14" alt="Portada de presentación">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mariosi3ri&label=Profile%20views&color=092234&style=plastic" alt="mariosi3ri" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariosi3ri" alt="mariosi3ri" /></a> </p>
 
-- ⚡ I’m currently working on **On a website for a Star Wars themed game. In the absence of mobile development and ends.**
+- ⚡ I’m currently working on **a website for a Star Wars themed game. In the absence of mobile development and ends.**
 
 - 👨‍💻 I’m currently learning **Cybersecurity with Google and Inroads & Java/Spring Backend with Oracle Next Education and Alura Latam.**
 
@@ -24,6 +22,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mariosi3ri&theme=dark" alt="mariosi3ri" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariosi3ri&show_icons=true&theme=dark&locale=en&layout=compact" alt="mariosi3ri" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mariosi3ri&label=Profile%20views&color=092234&style=plastic" alt="mariosi3ri" /> </p>
 
 <!--
 **MarioSi3ri/MarioSi3ri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
