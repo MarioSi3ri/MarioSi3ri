@@ -1,14 +1,14 @@
-<h5 align="center">🎓I am a student of Computer Systems Engineering and I continue to train to improve my skills and master computer technologies…☕</h5>
+<h5 align="center">🎓I am a professional in Computer Systems Engineering and I continue to train to improve my skills and the environment with the main computer technologies…☕</h5>
 
 <h1 align="center">Hi 👋, I'm Mario! 💻</h1>
-<h3 align="center">🖥 “I am a follower of the technological world, specializing in programming with Java and its frameworks, and adding knowledge of Cybersecurity, Data Analytics, Networks and IT.” 🌎</h3>
+<h3 align="center">🖥 “I am a follower of the technological world, specializing in programming with Java and JavaScript and its frameworks, and adding knowledge of Cybersecurity, Data Analytics, Networks and IT.” 🌎</h3>
 <image src="https://github.com/MarioSi3ri/MarioSi3ri/assets/129209417/b097b98e-0c21-4cbe-b8d2-69d622850d14" alt="Portada de presentación">
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariosi3ri&theme=darkhub" alt="mariosi3ri" /></a> </p>
 
 - ⚡ I’m currently working on **a website for a Star Wars themed game. In the absence of mobile development and ends.**
 
-- 👨‍💻 I’m currently learning **Cybersecurity with Google and Inroads & Java/Spring Backend with Oracle Next Education and Alura Latam.**
+- 👨‍💻 I’m currently learning **To improve some programs with Java on the Backend side based on Concurrent Programming and soon I will upload them herem.**
 
 
 <h3 align="left">Connect with me:</h3>
