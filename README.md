@@ -1,7 +1,7 @@
 <h5 align="center">🎓I am a professional in Computer Systems Engineering and I continue to train to improve my skills and the environment with the main computer technologies…☕</h5>
 
 <h1 align="center">Hi 👋, I'm Mario! 💻</h1>
-<h3 align="center">🖥 “I am a follower of the technological world, specializing in programming with Java and JavaScript and its frameworks, and adding knowledge of Cybersecurity, Data Analytics, Networks and IT.” 🌎</h3>
+<h3 align="center">🖥 “I am a follower of the technological world, specializing in programming with Java with Spring, JavaScript with Node, TypeScript with Angular and PHP & Python its frameworks, and adding knowledge of Cybersecurity, Data Analytics, Networks and IT.” 🌎</h3>
 <image src="https://github.com/user-attachments/assets/1706c930-7085-4933-b734-2ede793ed466" alt="Portada de presentación">
 
 - ⚡ I’m currently working on **a website for a Star Wars themed game. In the absence of mobile development and ends.**
