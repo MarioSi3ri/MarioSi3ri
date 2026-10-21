@@ -4,7 +4,7 @@
 <h3 align="center">🖥 “I am a follower of the technological world, specializing in programming with Java with Spring, JavaScript with Node, TypeScript with Angular and PHP & Python its frameworks, and adding knowledge of Cybersecurity, Data Analytics, Networks and IT.” 🌎</h3>
 <image src="https://github.com/user-attachments/assets/1706c930-7085-4933-b734-2ede793ed466" alt="Portada de presentación">
 
-- ⚡ I’m currently working on **a website for a Star Wars themed game. In the absence of mobile development and ends.**
+- ⚡ I’m currently working on **finishing a Star Wars-themed website built with JavaScript, a Web Store foundation for games using Angular, and my personal portfolio website using my core web stack, with only a few final details left to complete the web development.**
 
 - 👨‍💻 I’m currently learning **To improve some programs with Java on the Backend side based on Concurrent Programming and soon I will upload them herem.**
 
