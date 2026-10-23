@@ -63,6 +63,7 @@ Actualmente enfoco mi aprendizaje y práctica en:
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/Java%20Swing-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Swing" />
+  <img src="https://img.shields.io/badge/Flutter-46D1FD?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
 </p>
 
 ### Bases de datos y herramientas
@@ -71,6 +72,7 @@ Actualmente enfoco mi aprendizaje y práctica en:
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-FFC107?style=for-the-badge&logo=googlecloud&logoColor=black" alt="Google Cloud" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
@@ -152,6 +154,9 @@ Si deseas conocer más sobre mis proyectos, proponer una colaboración o convers
   </a>
   <a href="https://linkedin.com/in/mario-sn">
     <img src="https://img.shields.io/badge/LinkedIn-Mario%20Sierra%20Neri-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://mariosi3ri.github.io/Mario-Si3ri/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
