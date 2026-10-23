@@ -1,9 +1,13 @@
 <h1 align="center">¡Hola! 👋 Soy Mario Sierra Neri</h1>
 
 <p align="center">
-  <strong>Ingeniero en Sistemas Computacionales en formación · Desarrollador de software · Entusiasta de la tecnología</strong>
+  <strong>Ingeniero en Sistemas Computacionales · Desarrollador de software · Entusiasta de la tecnología</strong>
 </p>
 
+<p align="center">
+<img src="https://github.com/user-attachments/assets/1dc82ccd-422c-4437-9e94-bb04ca7aa0c9" alt="Banner del Perfil" />
+  </p>
+  
 <p align="center">
   <a href="https://github.com/MarioSi3ri">
     <img src="https://img.shields.io/badge/GitHub-MarioSi3ri-181717?style=for-the-badge&logo=github" alt="Perfil de GitHub" />
@@ -18,7 +22,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy estudiante de **Ingeniería en Sistemas Computacionales** y desarrollador interesado en crear soluciones prácticas mediante tecnologías web, aplicaciones de escritorio y servicios backend.
+Soy **Ingeniero en Sistemas Computacionales** y desarrollador interesado en crear soluciones prácticas mediante tecnologías web, aplicaciones de escritorio y servicios backend.
 
 Me gusta transformar ideas en proyectos funcionales, aprender nuevas herramientas y fortalecer continuamente mis conocimientos en programación, arquitectura de software, bases de datos y desarrollo de interfaces.
 
